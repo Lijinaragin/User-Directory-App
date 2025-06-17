@@ -1,4 +1,4 @@
-// src/components/UserModal.jsx
+
 import React, { useContext } from 'react';
 import { Usercontext } from '../Context/Usercontext';
 
